@@ -1,8 +1,4 @@
-Eric Anderson
-eander29@u.rochester.edu
-CSC 242
-Project 1
-Worked alone
+# Connect-Four
 
 Build instructions:
 
@@ -11,9 +7,6 @@ Build instructions:
 Run instructions:
 
 	- java GameConnect
-
-Output format closely mimics the example output given to us.
-Turn in zip only contains src files, submission form, and the README.
 
 Depth level 1 will break the program because that is the surface.
 
