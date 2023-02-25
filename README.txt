@@ -22,7 +22,6 @@ Files:
 	- State.java - interface for a state
 	- State2P.java - interface for a state with two players
 	- StateConnect.java - class for a state for connect four
-	- submission_form.pdf
 
 I think I did a pretty good job of implementing this generically. The interfaces
 and class inheritance applies well. I implemented several of the formal methods
